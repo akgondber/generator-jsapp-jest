@@ -16,7 +16,7 @@ module.exports = class extends Generator {
   }
 
   prompting() {
-    this.log(yosay(`Welcome to the fine generator-nm-prettier generator!`));
+    this.log(yosay(`Welcome to the fine generator-jsapp-jest generator!`));
 
     const prompts = [
       {

@@ -1,6 +1,6 @@
 {
   "name": "generator-jsapp-jest",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Js app generator (almost clean + jest devDependency)",
   "homepage": "https://github.com/akgondber/generator-jsapp-jest",
   "author": {
